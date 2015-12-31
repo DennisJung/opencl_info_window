@@ -6,7 +6,6 @@
 
 int main()
 {
-
 	unsigned int i, j;
 
 	cl_platform_id platforms[32];
